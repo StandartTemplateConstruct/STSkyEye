@@ -8,3 +8,8 @@ Tracking and positioning of people/vehicles/hazards/buildings/roads in the strea
    - [OpenTrafficMonitoringPlus](https://github.com/fkthi/OpenTrafficMonitoringPlus)
  - [Learning Aerial Image Segmentation from Online Maps](https://paperswithcode.com/paper/learning-aerial-image-segmentation-from)
  - [Tiny Object Detection in Aerial Images](https://paperswithcode.com/paper/tiny-object-detection-in-aerial-images)
+
+
+## Datasets
+
+ - https://paperswithcode.com/dataset/landcover-ai
