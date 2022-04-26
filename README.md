@@ -13,3 +13,13 @@ Tracking and positioning of people/vehicles/hazards/buildings/roads in the strea
 ## Datasets
 
  - https://paperswithcode.com/dataset/landcover-ai
+
+
+
+# Hardware systems
+
+## Fly CC 3.0
+
+https://www.kjallgren.se/upload/dokument/fly-cc-3-0.pdf
+
+https://sting.co/flox-acquires-flypulse-drone-fleet-software/
