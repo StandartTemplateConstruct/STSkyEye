@@ -15,6 +15,13 @@ Tracking and positioning of people/vehicles/hazards/buildings/roads in the strea
  - https://paperswithcode.com/dataset/landcover-ai
 
 
+# Models
+
+ - https://github.com/open-mmlab/mmdetection
+ - https://github.com/open-mmlab/mmhuman3d
+ - https://github.com/open-mmlab/mmtracking
+ - https://github.com/open-mmlab/mmrotate
+
 
 # Hardware systems
 
