@@ -23,3 +23,13 @@ Tracking and positioning of people/vehicles/hazards/buildings/roads in the strea
 https://www.kjallgren.se/upload/dokument/fly-cc-3-0.pdf
 
 https://sting.co/flox-acquires-flypulse-drone-fleet-software/
+
+
+
+# Competing architectures
+
+
+## MultiRtmpMavlinkDriver
+
+Receives rtmp feeds from multiple quadcopters. Autopilots fleet of drones via multiple Mavlink connections allowing user of service to receive drone footage, video fragmentation information and GPS coordinates of recognized vehicles and humans, indirect piloting of drones via web interface (map waypoint) and direct piloting (game controller)
+
